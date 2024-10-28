@@ -100,6 +100,10 @@ STEP 6: Use zscore of to remove outliers
 ![image](https://github.com/user-attachments/assets/3cd00bf0-39a6-4d91-adb3-270845f5c8db)
 
 
+# Result
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method
+
+
 
 
 
